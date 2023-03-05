@@ -2,7 +2,7 @@ BigInt Bernoulli - Big Integers Library with Bernoulli Number Generator
 Copyright (c) 2023 Miroslav Nemecek, Panda38@seznam.cz
 Version date: 03/05/2023
 
-Project website: https://www.breatharian.eu/sw/bigint
+Project website: https://www.breatharian.eu/sw/bigint/index_en.html
 Project on GitHub: https://github.com/Panda381/BigInt
 
 
